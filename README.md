@@ -14,7 +14,7 @@
 [download-join]:https://github.com/liu23zhi/Redmi_4X_santoni_Expansion_module/releases
 [BUG-feedback-join]:https://github.com/liu23zhi/Redmi_4X_santoni_Expansion_module/issues
 
-#更新日记
+# 更新日记
 ###### V1.0（2018-08-20）：
 我们发布了第一个版本
 > 功能：
@@ -50,4 +50,4 @@
 ？？？
 
 
-#相关下载地址：
+# 相关下载地址：
