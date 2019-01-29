@@ -11,7 +11,7 @@
 [tencent-qq-join3]:http://wpa.qq.com/msgrd?v=3&uin=1176477642&site=qq&menu=yes
 [tencent-qqgroup-badge]:http://pub.idqqimg.com/wpa/images/group.png
 [tencent-qqgroup-join]:http://shang.qq.com/wpa/qunwpa?idkey=882f396e37acade825084aa99a9484dd0953aae6225786a0a4c6c6a078f65483
-[download-join]:https://github.com/liu23zhi/Redmi_4X_santoni_Expansion_module/releases
+[download-join]:https://github.com/liu23zhi/Redmi_4X_santoni_Expansion_module/blob/master/README.md#相关下载地址
 [BUG-feedback-join]:https://github.com/liu23zhi/Redmi_4X_santoni_Expansion_module/issues
 
 # 更新日记
