@@ -1,9 +1,9 @@
 # Redmi_4X_santoni_Expansion_module
 红米4X的MIUI系统扩展系列
 
-|  [创始人@刘2_3志][tencent-qq-join1]  |  [协助维护者@hgl666][tencent-qq-join2]  |  [协助维护者@吴TTONG][tencent-qq-join3]  |  [QQ交流群][tencent-qqgroup-join]  |  [下载地址][download-join]  |  [BUG反馈][BUG-feedback-join]  |
+|  [创始人@刘2_3志][tencent-qq-join1]  |  [协助维护者@hgl666][tencent-qq-join2]  |  [协助维护者@吴TTONG][tencent-qq-join3]  |  [QQ交流群][tencent-qqgroup-join]  |  [常见问题][Questions-join]  |  [BUG反馈及建议][BUG-feedback-join]  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [![tencent-qq-badge]][tencent-qq-join1]  |  [![tencent-qq-badge]][tencent-qq-join2]   |  [![tencent-qq-badge]][tencent-qq-join3]   |  [![tencent-qqgroup-badge]][tencent-qqgroup-join]   |  [下载地址][download-join]  |  [BUG反馈][BUG-feedback-join]  |
+| [![tencent-qq-badge]][tencent-qq-join1]  |  [![tencent-qq-badge]][tencent-qq-join2]   |  [![tencent-qq-badge]][tencent-qq-join3]   |  [![tencent-qqgroup-badge]][tencent-qqgroup-join]   |  [常见问题][Questions-join]  |  [BUG反馈及建议][BUG-feedback-join]  |
 
 [tencent-qq-badge]: http://pub.idqqimg.com/qconn/wpa/button/button_111.gif
 [tencent-qq-join1]:http://wpa.qq.com/msgrd?v=3&uin=1439796966&site=qq&menu=yes
@@ -11,7 +11,7 @@
 [tencent-qq-join3]:http://wpa.qq.com/msgrd?v=3&uin=1176477642&site=qq&menu=yes
 [tencent-qqgroup-badge]:http://pub.idqqimg.com/wpa/images/group.png
 [tencent-qqgroup-join]:http://shang.qq.com/wpa/qunwpa?idkey=882f396e37acade825084aa99a9484dd0953aae6225786a0a4c6c6a078f65483
-[download-join]:https://github.com/liu23zhi/Redmi_4X_santoni_Expansion_module/blob/master/README.md#相关下载地址
+[Questions-join]:http://www.miui.com/thread-19771426-1-1.html#常见问题
 [BUG-feedback-join]:https://github.com/liu23zhi/Redmi_4X_santoni_Expansion_module/issues
 
 # 更新日记
