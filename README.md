@@ -58,3 +58,7 @@
 红米4x功能包
 
 相机包https://www.lanzous.com/i31qwhe
+
+#a-All-红米4x功能包
+＃B-Bottom-前期环境包
+#c-Camera-相机2.0包
