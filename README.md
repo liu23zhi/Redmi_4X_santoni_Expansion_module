@@ -65,4 +65,6 @@
 
 <!--c-Camera-相机2.0包>
 
+#如果您觉得功能包好用，顺便给我们买杯奶茶吧，谢谢
+
 [![付款码](https://raw.githubusercontent.com/liu23zhi/Redmi_4X_santoni_Expansion_module/master/%E4%BB%98%E6%AC%BE%E7%A0%81.png "付款码")]
