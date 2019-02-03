@@ -65,5 +65,4 @@
 
 <!--c-Camera-相机2.0包>
 
-[Reward]
-[Reward]:https://attach.bbs.miui.com/image/030/79/56/09_300_300.jpg?key=73fd6ae845a307d3&nocache=yes&type=fixnone
+[![付款码](https://raw.githubusercontent.com/liu23zhi/Redmi_4X_santoni_Expansion_module/master/%E4%BB%98%E6%AC%BE%E7%A0%81.png "付款码")]
