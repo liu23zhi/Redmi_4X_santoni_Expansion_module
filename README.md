@@ -65,3 +65,5 @@
 
 <!--c-Camera-相机2.0包>
 
+[Reward]
+[Reward]:https://attach.bbs.miui.com/image/030/79/56/09_300_300.jpg?key=73fd6ae845a307d3&nocache=yes&type=fixnone
