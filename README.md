@@ -246,7 +246,7 @@
 ##### a-all-红米4X功能包
 ##### b-bottom-前期环境包
 ##### c-camera-相机2.0独立包
-##### c-disable-安卓8.1的miui10全新编译ROM
+##### d-disable-安卓8.1的miui10全新编译ROM
 
 # 相关下载地址：
 
