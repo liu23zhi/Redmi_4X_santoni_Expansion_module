@@ -2,7 +2,7 @@
 红米4X的MIUI系统扩展系列
 
 |  [创始人@刘2_3志][tencent-qq-join1]  |  [协助维护者@hgl666][tencent-qq-join2]  |  [协助维护者@吴TTONG][tencent-qq-join3]  |  [协助维护者@DRAGONTITAN][tencent-qq-join4]  |  [协助维护者@梦醒、一时][tencent-qq-join5]  |  [QQ交流群][tencent-qqgroup-join]  |  [常见问题][Questions-join]  |  [BUG反馈及建议][BUG-feedback-join]  |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | [![tencent-qq-badge]][tencent-qq-join1]  |  [![tencent-qq-badge]][tencent-qq-join2]   |  [![tencent-qq-badge]][tencent-qq-join3]   |  [![tencent-qq-badge]][tencent-qq-join4]   |  [![tencent-qq-badge]][tencent-qq-join5]   |  [![tencent-qqgroup-badge]][tencent-qqgroup-join]   |  [常见问题][Questions-join]  |  [BUG反馈及建议][BUG-feedback-join]  |
 
 [tencent-qq-badge]: http://pub.idqqimg.com/qconn/wpa/button/button_111.gif
