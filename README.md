@@ -267,6 +267,7 @@ update：由于学习及设备问题，暂时停止维护
 # 相关下载地址：
 
 ##### 请联系我们获取下载地址
+##### a4.3.0版本：https://honoka-my.sharepoint.com/personal/msm8940_lily_beer/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmsm8940%5Flily%5Fbeer%2FDocuments%2FMagisk%5Fsantoni%5FHM4X%5FV9%2E4%2E25%2E2%5Fd0b2b828de%2Ezip&parent=%2Fpersonal%2Fmsm8940%5Flily%5Fbeer%2FDocuments&originalPath=aHR0cHM6Ly9ob25va2EtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvbXNtODk0MF9saWx5X2JlZXIvRVhMWUV4R3JEa2hDblNDdE5jV2QyS2tCZXU0NVpzRjZTdnVlSC0ybnROdS1xQT9ydGltZT1MWG9jNkZUSjEwZw
 
 # 赞助
 
