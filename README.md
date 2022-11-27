@@ -1,5 +1,6 @@
 # Redmi_4X_santoni_Expansion_module
-红米4X的MIUI系统扩展系列
+红米4X的MIUI系统扩展系列(该项目无限期停止更新）
+This project was discontinued.
 
 |  [创始人@刘2_3志][tencent-qq-join1]  |  [协助维护者@hgl666][tencent-qq-join2]  |  [协助维护者@吴TTONG][tencent-qq-join3]  |  [协助维护者@DRAGONTITAN][tencent-qq-join4]  |  [协助维护者@梦醒、一时][tencent-qq-join5]  |  [QQ交流群][tencent-qqgroup-join]  |  [常见问题][Questions-join]  |  [BUG反馈及建议][BUG-feedback-join]  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
